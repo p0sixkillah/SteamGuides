@@ -1,0 +1,10 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]When a cardholder or financial institution disputes a purchase made through Steam, this results in a payment reversal and is considered a [i]chargeback[/i].
+
+Chargebacks typically occur when someone identifies unknown charges on their bank account or finds purchases that were made without their consent.
+
+In order to protect users from additional unknown charges, accounts associated with chargebacks are [b]restricted[/b] while disputes are reviewed.
+[previewicon=10511928;sizeOriginal,inline;visa_ppl_yan_etc_revoked.png][/previewicon]
+In order to remove the restrictions, the user must contact the financial institution associated with the disputed payments in order to close them. Depending on the institution associated with the payments, it may take several weeks to close the dispute. [b]As a result of that, [previewimg=9122095;sizeOriginal,floatRight;lock.png][/previewimg]it may also take several weeks after closing a dispute for the content and account features to be restored.[/b]
+[quote][h1][previewimg=9122093;sizeOriginal,floatLeft;important_blue_small.png][/previewimg]With any chargeback, funds are held from Steam or returned to the cardholder. Since the funds are removed, the product is temporarily locked.
+
+If a dispute is closed and the funds are returned to Steam, the content associated with the dispute will be restored.[/h1][/quote]

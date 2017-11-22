@@ -1,0 +1,4 @@
+A [b]Warning[/b] is a message from a Steam Community Moderator where an offending user is notified of their inappropriate behavior on the Steam Community Discussions.
+[previewicon=10511331;sizeOriginal,inline;warning_notification.png][/previewicon]
+
+[previewicon=10511333;sizeOriginal,inline;warning_moderatormessage.png][/previewicon]

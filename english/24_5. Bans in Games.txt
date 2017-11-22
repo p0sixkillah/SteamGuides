@@ -1,0 +1,1 @@
+[h1][previewimg=9122091;sizeOriginal,floatLeft;note_en.png][/previewimg]Game-specific bans that are shown in a user's profile are issued for cheating and using programs in order to gain an advantage over other players. This includes Valve's own Valve Anti-Cheat ([b]VAC[/b]) bans and [b]game bans[/b] (banned by game developer).[/h1]

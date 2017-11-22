@@ -1,0 +1,13 @@
+[previewimg=9122090;sizeOriginal,floatRight;vac_logomini.png][/previewimg]Valve has developed a system, that [b]automatically[/b] detects and [b]permanently[/b] restricts game access to anyone who utilizes cheats or modifies program code on servers that are protected by VAC.
+
+Valve Anti-Cheat is running on all official game servers by Valve and on the majority of user-created servers. VAC can be spotted by its shield icon in the server browser:
+[previewicon=10392086;sizeOriginal,inline;vac_srvlist.png][/previewicon]
+
+VAC automatically detects cheats (modifiers) and programs that are replacing files and interfering with the game process, and otherwise may provide an advantage over other players.
+
+[previewimg=9122111;sizeOriginal,floatLeft;m11.png][/previewimg]The VAC module is loaded into the client memory and is watching for any 3rd party processes that are interfering with the game executable. This means that any program that is attaching or otherwise tampering with the game process, can and will be recognized as a cheat.
+
+Once an outside interference is detected, the VAC module sends the following information to Valve servers: details about the intrusion type, account information, etc. The process that is injecting into the game executable will be checked against the database, and if there is a similar process that is detected as a cheat, a ban will be issued. Once the account has been flagged, a ban will be placed [i]in a couple of days, or in a few weeks[/i]. The user will not be able to connect to VAC-secured servers and a red notice will appear in the offender's profile. [previewimg=10392418;sizeOriginal,floatRight;vac_profile.png][/previewimg] The delay is there in order to prevent cheaters from knowing when and why they were banned, slowing down cheaters from creating work-arounds in the future.
+[previewimg=10392428;sizeOriginal,floatRight;vac_profilemultiple.png][/previewimg]
+
+A user, who has "earned" multiple VAC bans in different games, will have a corresponding label in their profile.

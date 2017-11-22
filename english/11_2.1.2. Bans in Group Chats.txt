@@ -1,0 +1,6 @@
+Even though violating group members may be banned from the group discussions, they are still able to join and participate in the group chatroom. [b]Group discussion bans and chatroom bans are separated.[/b] This means that the group administrators and moderators will also have to ban the offender from the group the group chatroom to prevent any more violations.
+
+[previewimg=10405492;sizeOriginal,floatRight;chatban_tray.png][/previewimg] The offender in this case will see a message, which says that [b]“they were banned from the chat by %moderator_name%”[/b]. They will also see a popup in their Steam tray with the same message (as you can see on the right side).
+
+Depending on the ban duration, the offender will not be able to join the group chat. Whenever they attempt to, they will be greeted with the following notification:
+[previewicon=10405494;sizeOriginal,inline;chatban_error.png][/previewicon]

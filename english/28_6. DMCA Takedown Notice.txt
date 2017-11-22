@@ -1,0 +1,8 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]The [b]Digital Millennium Copyright Act (DMCA)[/b] is a United States copyright law that implements two 1996 treaties of the World Intellectual Property Organization (WIPO). It criminalizes production and dissemination of technology, devices, or services intended to circumvent measures (commonly known as digital rights management or DRM) that control access to copyrighted works. It also criminalizes the act of circumventing an access control, whether or not there is actual infringement of copyright itself. In addition, the DMCA heightens the penalties for copyright infringement on the Internet.
+
+Valve respects the intellectual property rights of others, and is expected that everyone using internet sites and services do the same. Anyone who believes that their work has been reproduced on any internet sites or services in a way that constitutes copyright infringement may notify Valve's copyright agent using the form below. Be aware that under Section 512(f) of the Digital Millennium Copyright Act, any person who knowingly and materially misrepresents that material or activity is infringing and may be liable for damages.
+
+For example, once a user has found out that their content was completely copied by another user, they can file an appropriate claim. After that, the offending content will receive a notification (a guide is used in this example):
+[previewicon=10392637;sizeOriginal,inline;dmca_notif_public.png][/previewicon]
+
+The claim is then processed by Valve. If it turns out the content in question does indeed infringe someone else's copyright, it will be removed from the Community.

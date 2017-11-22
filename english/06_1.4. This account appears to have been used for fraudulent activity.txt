@@ -1,0 +1,20 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]A scam occurs when one user fraudulently makes another user willingly perform a trade, buy something on the community market, receive a gift, or etc. Support staff will immediately block all accounts that were involved in:
+[quote][list][*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Receiving gifts from scammers[/b][/h1]
+Never accept gifts from strangers. Any account that have activated gifts from scammers can be banned.
+
+[*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Fraudulent transactions[/b][/h1]
+Any fraudulent activity that involves banking cards, charge-backs and refunds through PayPal, regardless of when the operation occurred.
+
+[*][h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Trade scams[/b][/h1]
+Faking items, using middlemen (imitating/spoofing one), trade checks, etc.
+
+[*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Community Market scams[/b][/h1]
+This can happen when a user offers to send you some money to your Steam Wallet by purchasing one of your cheap items for a high price on the Community Market. The majority of these offers involve money that were obtained by scamming other users.
+[/list][/quote]
+The following alert will be sent if an aforementioned point is violated:
+[previewicon=10405622;sizeOriginal,inline;accountalert_red_fraud.png][/previewicon]
+In rare cases, scammers will hijack an account and use it to commit scams, fraud, or other hijackings. [previewimg=9122095;sizeOriginal,floatRight;lock.png][/previewimg]If this happens, Steam Support will lock the account until the rightful owner contacts them.
+[quote][h1][previewimg=9122093;sizeOriginal,floatLeft;important_blue_small.png][/previewimg]Steam Support relies on several data points to arrive at a decision to ban or lock an account. 
+Users intent on committing malicious activity—most often done to other users—are constantly trying to gain this data to use in future scams, fraud and hijackings.[/h1]
+
+[/quote]

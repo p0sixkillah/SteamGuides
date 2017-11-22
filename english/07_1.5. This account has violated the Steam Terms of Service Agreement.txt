@@ -1,0 +1,7 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]One of the most serious bans on Steam is the ban for a violation of the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url]. Every single user must accept its terms during their account registration. Any violation of its terms will lead either to a temporary or permanent ban. The most severe violations are punished with the offending account being completely disabled.
+
+[h1][b]Temporary ban:[/b][/h1]
+[previewicon=10405637;sizeOriginal,inline;ssa_ban_temp_notif.png][/previewicon]
+
+[h1][b]Permanent ban:[/b][/h1]
+[previewicon=10405640;sizeOriginal,inline;ssa_ban_notif.png][/previewicon]

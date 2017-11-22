@@ -1,0 +1,20 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]In most cases, Steam Support does not automatically contact owners of banned accounts. Valve has a zero-tolerance policy of Steam Subscriber Agreement and Steam Online Conduct violations; the support staff will immediately block all accounts that are owned by a user who has performed one or more of the following:
+[quote][list]
+[*][h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Piracy or Hacking[/b][/h1]
+This includes using an unauthorized ("hacked") Steam client to access Steam, attempting to register fake CD Keys or attempting to register a CD Key which has been published on the internet.
+
+[*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Account theft or shared usage[/b][/h1]
+Users may not use accounts that they do not own.
+
+[*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Account "Phishing" and Deliberately Deceptive Activity[/b][/h1]
+This includes contacting other users outside of Steam or over the Friends network under a misleading/impersonating screen name or e-mail address (i.e. "Steam Admin", "VAC Administrator", "You Won Free Game Gift") and requesting password or account information.
+
+[*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Buying, selling or trading accounts[/b][/h1]
+All purchased, sold and traded account will be banned. This includes all accounts that a user is the owner of at the time of purchase, regardless of the fact they were sold or traded, or not.
+[/list][/quote]
+In the case of a violation, Steam Support will send the following alert to the account:
+[previewicon=10405543;sizeOriginal,inline;accountalert_red_accountphishing.png][/previewicon]
+Please read the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url] and the [url=http://steampowered.com/index.php?area=online_conduct]Steam Online Conduct[/url] [previewimg=9122095;sizeOriginal,floatRight;lock.png][/previewimg]should you have questions regarding a disabled Steam account.
+[quote][previewimg=9122097;sizeOriginal,floatLeft;Important_blue.png][/previewimg][b]Quote from the Steam Subscriber Agreement:[/b]
+[h1]“You may not reveal, share or otherwise allow others to use your password or Account except as otherwise specifically authorized by Valve. You are responsible for the confidentiality of your login and password and for the security of your computer system. Valve is not responsible for the use of your password and Account or for all of the communication and activity on Steam that results from use of your login name and password by you, by any person to whom you may have intentionally or by negligence disclosed your login and/or password in violation of this confidentiality provision.”[/h1]
+[/quote]

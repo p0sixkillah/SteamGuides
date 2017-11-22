@@ -1,0 +1,1 @@
+Simply edit the included HTML files with strings from your language. Firefox is recommended.

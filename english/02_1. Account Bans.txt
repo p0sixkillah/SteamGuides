@@ -1,0 +1,20 @@
+[h1][previewimg=9122092;sizeOriginal,floatLeft;friends.png][/previewimg]If a user has violated any terms of the [b][url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url][/b], which the user has accepted during the [b]free[/b] registration process on Steam, their account may be blocked or restricted. Such restrictions may be applied only by Valve employees.[/h1]
+
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+
+[h1][previewimg=9122091;sizeOriginal,floatLeft;note_en.png][/previewimg]As pointed out before, Steam account bans may occur when there is a breach of at least one term of the [url=https://store.steampowered.com/subscriber_agreement/]Steam Subscriber Agreement[/url].  
+The [b]most common reasons[/b] for why an account may be banned are:[/h1]
+
+[quote][previewimg=9122103;sizeOriginal,floatRight;m4.png][/previewimg][list][*] buying, selling, trading and the transferring of a [b]Steam account[/b] to third parties;
+
+[*] attempting to gain unauthorized access to accounts of other people;
+
+[*] evasion of regional restrictions for your country store with the help of a proxy, VPN and other tools to hide the real location of a user;
+
+[*] unauthorized usage of Steam for the goal of financial gain (online casinos, betting, lotteries, etc.);
+
+[*] cases where Steam usage involves illegal activity (storing and distributing child pornography, selling drugs and weapons, advocacy and promotion of terrorism, etc.);
+
+[*] fraudulent activity and scamming via Steam Trading.
+[/list]
+[/quote]

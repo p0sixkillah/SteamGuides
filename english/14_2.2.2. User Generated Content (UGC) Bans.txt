@@ -1,0 +1,21 @@
+[previewimg=10519653;sizeThumb,floatLeft;m7en.png][/previewimg][previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg][b]U[/b]ser [b]G[/b]enerated [b]C[/b]ontent (UGC) includes comments, guides, reviews, screenshots, artworks, videos, tags, Workshop items, etc.
+
+In the case that a UGC violates Steam Rules and Guidelines, it can be banned by a Steam Community Moderator or Steam Support Staff.
+
+Here are a few examples of User Generated Content bans for clarity:
+
+[h1][b]1. Reviews[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+Thanks to Steam Reviews, a potential buyer can now make a better decision when purchasing a product on Steam by getting to know another user's experience; having the ability to discover the positive and negative features of a game. In some cases, a review can be offensive or otherwise inappropriate. Such review will be banned and the following message will appear:
+[previewicon=10408986;sizeOriginal,inline;UGC_ban_review.png][/previewicon]
+
+
+[h1][b]2. Greenlight Submissions (ineffective since the 13th June, 2017)[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+In the past, if a Greenlight submission has been found to violate the Steam rules, it would have been banned and the following text would appear on the submission's page:
+[previewicon=10409040;sizeOriginal,inline;ugc_greenlight_ban.png][/previewicon]
+
+
+[h1][b]3. Screenshot / artwork ban notification[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+[previewicon=10519433;sizeOriginal,inline;ugc_sreenshot_ban.png][/previewicon]

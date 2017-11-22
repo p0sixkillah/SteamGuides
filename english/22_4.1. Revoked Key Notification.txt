@@ -1,0 +1,4 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]An account alert can be triggered by a removed (revoked) CD key. This can happen, for example, when the CD Key is intended for a limited time activation, like a Beta, or if the publisher determines that the CD Key itself had been obtained by fraudulent means. 
+
+The official Steam Support article states that [i]“Your account will not be restricted; however, the CD Key you received will be removed”[/i]. So, users do not need to worry when they see this notification:
+[previewicon=10511665;sizeOriginal,inline;revoked_CD.png][/previewicon]

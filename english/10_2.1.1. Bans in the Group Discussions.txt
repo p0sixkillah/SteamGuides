@@ -1,0 +1,13 @@
+[previewimg=10394521;sizeOriginal,floatRight;group_forumban_notification.png][/previewimg]For a violation of the group's rules, the violator will be banned. A group ban, temporary or permanent, makes all of that group's forums unavailable to the banned user.
+
+If a user is banned, they will not receive a notification in their profile. While browsing the group again, however, they will see the following red box above the thread list of any subforum:
+
+[list]
+[*] [h1]If banned permanently:[/h1]
+[/list]
+[previewicon=9123214;sizeOriginal,inline;group_forumban_red.png][/previewicon]
+[list][*] [h1]If banned temporarily:[/h1][/list]
+[previewicon=9123216;sizeOriginal,inline;group_forumban_red_temp.png][/previewicon]
+
+The banned user will be allowed to read any thread, however they will not be able to post messages. They will see this message in place of the reply box:
+[previewicon=9123217;sizeOriginal,inline;forumban_gray.png][/previewicon]

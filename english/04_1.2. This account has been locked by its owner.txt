@@ -1,0 +1,12 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]The [url=https://support.steampowered.com/kb_article.php?ref=6416-FHVM-3982]"Steam Self Locking Tool"[/url] allows you to lock your account and protect it from unauthorized actions if you suspect that the account has been stolen or compromised. When certain Steam account changes are made, a notification will be sent to the email address that is associated with your account. These include the following: [previewimg=9122104;sizeThumb,floatLeft;m5.png][/previewimg] 
+[list]
+[*] Password changes
+[*] Email changes
+[*] Steam Guard code requests
+[/list]
+The account owner will receive an email, regardless of who has done one of the aforementioned actions. This message will also include a link to lock the account. If no changes were made to the account by its owner, they should use this button in order to avoid any potential problems. After using it, the following account alert will be shown:
+[previewicon=10405542;sizeOriginal,inline;accountalert_red_banbyowner.png][/previewicon]
+The user must ensure that they have written a recovery code prior to locking their account. [previewimg=9122095;sizeOriginal,floatRight;lock.png][/previewimg]This code will allow them to lift account restrictions, when the account is safe and secure.
+[quote][previewimg=9122093;sizeOriginal,floatLeft;important_blue_small.png][/previewimg][h1]At this time, it is only possible for a user to lock their account by using a link that is included in the notification that will only arrive in the specific cases mentioned above. 
+The user is unable to lock their account directly through the Steam Client or by any other means.[/h1]
+[/quote]

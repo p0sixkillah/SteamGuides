@@ -1,0 +1,10 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]Violation of the global forum [b]Rules and Guidelines[/b], as well as the local ones, is punishable with a ban. Both temporary and permanent bans in a community hub will result in a banned user not being able to participate in any of the discussions of the said community hub. This ban, however, affects only the community hub where a violation has been committed — the user is still free to post in discussions of other community hubs and the official Steam forums.
+
+[previewimg=9123218;sizeOriginal,floatRight;discussions_comm_moder_mess_notif.png][/previewimg]If a user is banned, they will receive the following notification.
+
+This is what the user will see by going to the [url=https://steamcommunity.com/my/moderatormessages/]“Community Moderation Messages”[/url] page:
+[previewicon=10509845;sizeOriginal,inline;discussions_comm_mod_mess.png][/previewicon]
+[previewicon=10509981;sizeOriginal,inline;disussions_gamehub_banmessage.png][/previewicon]
+[previewicon=10509982;sizeOriginal,inline;disussions_gamehub_bandetails.png][/previewicon]
+
+[h1]See [b][u]2.4. Bans in Steam Discussions[/u][/b] for more information about this type of a ban.[/h1]

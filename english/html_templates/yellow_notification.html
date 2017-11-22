@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html class="responsive" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Account Alert for [account name] - [date]</title>
+	<link rel="shortcut icon" href="https://store.steampowered.com/favicon.ico" type="image/x-icon">
+
+	<link href="_notification/motiva_sans.css" rel="stylesheet" type="text/css">
+<link href="_notification/shared_global.css" rel="stylesheet" type="text/css">
+<link href="_notification/buttons.css" rel="stylesheet" type="text/css">
+<link href="_notification/store.css" rel="stylesheet" type="text/css">
+<link href="_notification/styles_supportmessages.css" rel="stylesheet" type="text/css">
+<link href="_notification/shared_responsive.css" rel="stylesheet" type="text/css">
+			<script type="text/javascript" src="_notification/jquery-1.js"></script>
+<script type="text/javascript">$J = jQuery.noConflict();</script><script type="text/javascript" src="_notification/tooltip.js"></script>
+
+<script type="text/javascript" src="_notification/shared_global.js"></script>
+
+<script type="text/javascript" src="_notification/main.js"></script>
+
+<script type="text/javascript" src="_notification/prototype-1.js"></script>
+
+<script type="text/javascript" src="_notification/_combined.js"></script>
+
+<script type="text/javascript" src="_notification/dynamicstore.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) { $J.data( document, 'x_readytime', new Date().getTime() ); 
+$J.data( document, 'x_oldref', GetNavCookie() ); 
+$('.tooltip').v_tooltip();
+window.BindStoreTooltip = function( $Selector ) { $Selector.v_tooltip( {'tooltipClass': 'store_tooltip', 'dataName': 'storeTooltip' } ); };
+BindStoreTooltip( $('[data-store-tooltip]') ); 
+});</script><script type="text/javascript" src="_notification/supportmessages.js"></script>
+<script type="text/javascript" src="_notification/shared_responsive_adapter.js"></script>
+
+	
+						<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:site" content="Steam">
+			
+	
+			<link rel="image_src" href="https://steamstore-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+		<meta property="og:image" content="https://steamstore-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+					<meta property="og:image:secure" content="https://steamstore-a.akamaihd.net/public/shared/images/responsive/share_steam_logo.png">
+			
+	
+	
+	</head>
+<body class="v6 game_bg responsive_page">
+
+<div class="responsive_page_frame no_header">
+
+			
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu" id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden no_menu">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="responsive_store_nav_ctn"></div>
+		<div class="responsive_page_template_content">
+
+			
+<div class="support_message_page">
+
+	<div class="support_message_ctn">
+
+										<div id="message_0" class="ack_message support_message" style="">
+				<div class="ack_message_header support_message_header">
+					Account Alert for <span class="accountname">[account name]</span> - [date]				</div>
+				<div class="support_message_content">
+<h1>This is a heading.</h1>
+<p>This is just a text. Note there's no need to put &lt;br /&gt; after &lt;h1&gt;&lt;/h1&gt; tags in this case.</p>
+	<br>
+<h1>Contact Support button</h1>
+<p>This one is a little bit tricky to get working (don't forget &lt;br /&gt; after the button):</p>
+<a class="btn_contact_support"><span class="btn_contact_support">Contact Steam Support</span></a>
+<br><h1>Transaction details / Reason Element (&lt;br /&gt; is required in this case)</h1>
+	<br>
+	<div class="transaction_details">
+	<div class="transaction_date">[date]</div>
+	<div class="transaction_price">[price]</div>
+	<div class="transaction_contents">
+									<div class="transaction_item">[product]</div>
+								</div>
+</div>
+</div>
+			</div>
+		
+	</div>
+	<div class="support_message_controls">
+		<div onclick="CloseSupportMessageWindow();" class="btn_grey_white_innerfade btn_small_thin btn_disabled" id="supportmessages_closebtn">
+			<div class="leftcap"></div>
+			<div class="rightcap"></div>
+			<span>Close Window</span>
+		</div>
+		<div class="support_message_check_ctn">
+			<div>
+									<div id="checkbox_ctn_0" style="">
+						<input id="checkbox_0" onchange="OnSupportMessageAcked( 0 );" type="checkbox">
+						<label for="checkbox_0">I have read this message</label>
+					</div>
+							</div>
+			<div class="support_message_check_note">
+				(Required to close the window permanently)			</div>
+		</div>
+
+
+		<div class="support_message_paging_ctn" style="display: none;">
+			<a class="pagebtn" id="supportmessage_pagebtn_prev">&lt;</a>
+			<span class="support_message_paging_display">
+				<span id="supportmessage_cur">1</span> of 1			</span>
+			<a class="pagebtn" id="supportmessage_pagebtn_next">&gt;</a>
+		</div>
+
+		<div style="clear: both;"></div>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+	InitSupportMessages( 1 );
+</script>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+		
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+
+</body></html>

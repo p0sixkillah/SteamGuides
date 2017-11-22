@@ -1,0 +1,29 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]If a user violates or ignores the established rules during their trading activity, they will receive a temporary or permanent ban in the Steam Trading System.
+
+
+[previewimg=10512296;sizeOriginal,floatRight;tradeban_profile.png][/previewimg] Most often, a red notice in a user's profile will appear for soliciting other users to trade for something that is not allowed:
+
+[quote][list][*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Trades involving money[/b][/h1]
+The Steam trading interface does not support the transfer of money in any form. This includes Wallet credits, PayPal, gift cards or any other type of currency.
+
+[*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Trades involving CD Keys[/b][/h1]
+Trading for CD Keys is not supported in the Steam Trading interface. CD Keys that are offered are often for a different game, fake, used or region restricted.
+
+[*][h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Trading items/gifts for nothing in return[/b][/h1]
+You should complete any trades in a single trade. The trading interface supports an unlimited amount of items to be included with each trade, usually foregoing the need for multiple trades. If you choose to trade an item without receiving anything in return, you will receive a confirmation dialog prior to completing the trade which lets you know the item you are sending is considered a gift.
+
+[*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Trades offering Steam Wallet credit[/b][/h1]
+Steam Wallet credit cannot be traded, moved, gifted or automatically added to accounts by other users. Never accept trades that offer Steam Wallet funds. The only way to add funds to someone else's account, is to buy and gift them a [url=https://store.steampowered.com/digitalgiftcards/selectgiftcard#giftcards_faq]Digital Gift Card[/url].
+
+[*] [h1][previewimg=9122089;sizeThumb,floatRight;forbidden.png][/previewimg][b]Borrowing Steam items[/b][/h1]
+If you give a user an item, there is nothing to stop them from keeping it. In most cases, if a user wishes to borrow an item, they will not return it. Do not lend items to other users.
+[/list][/quote]
+For violation of any points above, Steam Support will issue the following alert to the offender:
+[previewicon=10512215;sizeOriginal,inline;tradeban_notif.png][/previewicon]
+[previewimg=9122095;sizeOriginal,floatRight;lock.png][/previewimg] Stick to the established rules and use common sense to avoid getting scammed and/or banned.
+[quote][h1][previewimg=9122093;sizeOriginal,floatLeft;important_blue_small.png][/previewimg]
+[url=https://support.steampowered.com/kb_article.php?ref=6748-ETSG-5417&l=english]Trading Basics[/url]
+[url=https://support.steampowered.com/kb_article.php?ref=2178-QGJV-0708&l=english]Steam Trade Offers[/url]
+[url=https://support.steampowered.com/kb_article.php?ref=9958-MJDG-3003&l=english][b]Steam Item Restoration Policy[/b][/url]
+[url=https://support.steampowered.com/kb_article.php?ref=8912-WEYU-8454&l=english]Recommended Trading Practices[/url]
+[url=https://support.steampowered.com/kb_article.php?ref=3415-WAFH-6433&l=english][b]Trade Scam FAQ[/b][/url][/h1][/quote]

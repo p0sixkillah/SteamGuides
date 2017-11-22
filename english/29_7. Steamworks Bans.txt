@@ -1,0 +1,53 @@
+[previewimg=10476233;sizeOriginal,floatLeft;bluelogo_steamworks.png][/previewimg][previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg][h1][b]Steamworks[/b] is a free suite of tools available to any developer to use in their game or software on Steam.[/h1]
+
+Here is a small sampling of the available features:
+[list]
+[*] Matchmaking
+[*] Steam Inventory Service
+[*] Anti-cheat technology
+[*] In-game economy with microtransactions
+[*] Management of user-generated content
+[*] Per-User cloud storage
+[/list]
+However, for violations related to the contract between Valve and the developer, as well as the developer breaching the Steam Subscriber Agreement (SSA), appropriate actions may be taken by Valve in order to punish the offending party by restricting access to certain Steamworks features or even terminating the contract.
+
+[h1][b]7.1. Trading Cards Eligibility[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+Uploading inappropriate content may lead to your trading cards eligibility revoked.
+[i][b]Update:[/b] Now all developers are not eligible for trading cards since the [url=https://steamcommunity.com/games/593110/announcements/detail/1954971077935370845]16th of May, 2017[/url] until Valve can confirm the game as legitimate.[/i]
+
+[h1][b]7.2. Revoking Game Bans API[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+Developers who abuse their Game Bans feature will have it revoked:
+[quote=“Banned by Game Developer (Game Ban)” Steam Support Article]
+[h1]Will Valve review developer requests for banning in any way?[/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+Developers must be approved to use this system, and Valve reserves the right to revoke access to the system if the developer abuses it.
+[/quote]
+
+[h1][b]7.3. Restricting Keys Distribution[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+Steam key requests are manually reviewed and the history of your past requests and sales is looked into. This means that if you, for example, have 100 sales on Steam and are requesting 500k keys, your key request will most likely be denied and you will receive the following message:
+[quote]Your key request may have been denied because the request was for a package that contains a release state override for the included appIDs, which would make the content immediately playable upon activation. Unless a request for testing/promo/press override keys is a small batch and properly tagged for use, it may be denied.
+
+If the Key request is intended for commercial purposes, be sure to use a package that does not override the release state of your app.
+
+For more information on keys, please see our documentation here: https://partner.steamgames.com/documentation/keys[/quote]
+
+[h1][b]7.4. Contract Termination Due to the NDA Breakage[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+All onboarding Steam partners must agree to a Non-Disclosure Agreement (NDA); if the NDA has been breached in any form, Valve has the right to terminate the contract and partnership. An example of that can be leaking Steam Sales dates (which are confidential).
+
+[h1][b]7.5. Contract Termination Due to Review Manipulation, Trading Cards Farming and Toxic Behavior[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+Developers are forbidden to manipulate reviews by any means. This includes soliciting reviews by granting players free keys in exchange for a review, posting fake reviews by yourself or using grey-area bot review services.
+
+Developers are not allowed to grant licenses of their games to accounts that are involved in a so-called "trading cards farming", a process where a developer generates thousands of trading cards of practically zero value, and then makes community market transactions in order to have a cut from these "sales".
+
+Removing negative reviews, censoring users on the forums and showing negative behavior towards your customers is not allowed.
+
+Valve will terminate the contract should one of aforementioned violations occur.
+
+[h1][b]7.6. Contract Termination Due to Copyright Infringement[/b][/h1]
+[previewicon=9122100;sizeFull,inline;blueline.png][/previewicon]
+When uploading content to Steam, you state that you are either an owner of the content you upload, or you have permission from the legal owner to do so. If it is discovered that you have illegally uploaded someone else's intellectual property without their permission, Valve will terminate your contract.

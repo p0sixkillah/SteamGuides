@@ -1,0 +1,5 @@
+[previewimg=9122094;sizeOriginal,floatRight;envelope.png][/previewimg]In order to ensure the best possible online multiplayer experience on non-Valve games, Valve allows developers to implement their own systems that detect and permanently ban any disruptive players, such as those using cheats.
+
+[previewimg=10391921;sizeOriginal,floatRight;gameban_profile.png][/previewimg]The effects of the game ban are determined by the developer and must be consistent with a VAC ban, such as not being able to play online with other players and/or being able to trade items for that game.
+
+Only permanent game bans are displayed on the user’s profile. Temporary game bans, or suspensions, are not displayed.
