@@ -10,4 +10,6 @@ Description: The most comprehensive guide about bans on the Steam platform. Here
 [td][url=https://steamcommunity.com/sharedfiles/filedetails/?id=901089331][h1]🇷🇺 Russian[/h1][/url][/td]
 [/tr][/table]
 
+[h1][i]Help us translate this guide — grab all of the source files [url=https://github.com/p0sixkillah/SteamGuides/tree/961168214_Bans-on-Steam]here![/url][/i][/h1]
+
 Categories: Secrets, Story Or Lore, Trading
